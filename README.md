@@ -1,4 +1,5 @@
-# Hello There 👋 <!-- General Kenobi... -->
+# Hello There 👋
+*General Kenobi...*
 
 I'm Arthur Rabello, an Applied Mathematics undergraduate student at [FGV/EMAp](https://emap.fgv.br/) in Rio de Janeiro, Brazil.
 
