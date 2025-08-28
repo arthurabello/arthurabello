@@ -1,13 +1,5 @@
 # Hello There 👋  
-*General Kenobi...*  
-
-I'm **Arthur Rabello**, an Applied Mathematics undergraduate student at [FGV/EMAp](https://emap.fgv.br/) in Rio de Janeiro, Brazil.  
-
-## 🚀 About Me  
-- 📚 Currently in my second year of college  
-- 💻 Passionate about combinatorics and music 
-- 🖥️ Programming in **Python**, **C**, and **C++**,
-- 📧 Contact: [arthur.oliveira.1@fgv.edu.br](mailto:arthur.oliveira.1@fgv.edu.br)  
+*General Kenobi...*   
 
 ## 🛠️ Languages and Tools  
 <div>
